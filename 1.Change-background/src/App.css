@@ -1,0 +1,18 @@
+.App {
+  height: 100vh;
+  margin:0;
+  text-align: center;
+  margin:auto;
+  align-items: center;
+}
+input{
+  background-color: none;
+  border:none;
+  outline: none;
+  border-bottom:3px solid black;
+  font-size: 30px;
+}
+.vitra{
+  padding: 200px
+}
+

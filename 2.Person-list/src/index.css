@@ -1,0 +1,29 @@
+
+.main{
+  margin: 20px;
+  padding: 10px;
+  background-color: teal;
+  align-items: center;
+  display: flex;
+}
+.sabai{
+  margin: auto;
+}
+.card{
+  width: 300px;
+  max-height: 800px;
+  margin: 40px;
+}
+.card-title{
+  color:white;
+  background-color: green;
+  border-radius: 10%;
+  font-size: 30px !important;
+  padding: 5px !important;
+}
+.card-image{
+  border-radius: 10%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

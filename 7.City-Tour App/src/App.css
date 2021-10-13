@@ -1,0 +1,17 @@
+.Nayakura{
+  width: 90%;
+  margin:auto;
+  display: flex !important;
+  justify-content:space-between !important; 
+}
+
+.card{
+  margin:auto;
+  max-width: 300px;
+  max-height: 500px !important;
+  margin-bottom: 50px;
+}
+img{
+  width: 300px !important;
+  height: 400px !important;
+}
