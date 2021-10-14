@@ -1,0 +1,16 @@
+.serchsection{
+    margin: auto;
+    width: 70%;
+    padding: 30px ;
+}
+.flexpart{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.downimage{
+    margin-top: 20px;
+}
+.image{
+    margin-top: 20px;
+}

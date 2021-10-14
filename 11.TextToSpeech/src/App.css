@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin :auto;
+  font-family: 'Poppins', sans-serif;
+  color:white;
+}
+.App{
+  background-color: rgb(138, 136, 136);
+  height: 100vh;
+padding-top: 30px;
+}
+.inner{
+  width: 60%;
+  color:white;
+  font-size: 30px;
+
+}
+.heading{
+
+  margin-bottom:30px;
+  font-size:50px
+}
+@media only screen and (max-width: 1068px) {
+  .inner{
+    width: 80%;
+  }
+  .heading{
+    font-size: 40px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .inner{
+    width: 90%;
+  }
+  .heading{
+    font-size: 35px;
+  }
+
+}

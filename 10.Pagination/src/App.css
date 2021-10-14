@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  width:20%;
+}
+.paginationBttns{
+  display: flex;
+  justify-content:center;
+  list-style: none;
+  cursor: pointer;
+  width: 80%;
+}
+.paginationBttns a{
+  padding: 8px;
+  margin: 10px;
+}
+.previousBttn,
+.nextBttn{
+  background-color: aqua;
+  border: 1px solid tomato;
+  padding: 5px;
+  text-decoration: none;
+  width: 80%;
+  height: 30px;
+
+}
+.paginationActive{
+
+  color: tomato;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0px 10px;
+  
+}
