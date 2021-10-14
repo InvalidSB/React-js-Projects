@@ -1,4 +1,12 @@
-# ReactJS
-## I have started learning react js from may 2020.
-# Here are some basic project files. Those.... I had done during my learning phase.
-# << FROM BASICS TO ADVANCE >>
+### << FROM BASICS TO ADVANCE >>
+
+----
+
+Some hosted sites
+
+### Weather-app
+https://initweather.netlify.app/
+
+### MyColorPicker
+https://mycp.netlify.app/
+
